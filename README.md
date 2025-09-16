@@ -15,18 +15,18 @@ The project analyzes Genshin Impact player behavior, character popularity, and b
 
 ##Database Schema
 The database includes the following tables:
-+players
-+characters
-+weapons
-+banners
-+pulls (wish history)
++ players
++ characters
++ weapons
++ banners
++ pulls (wish history)
 
 ##Key Analyses
-+Popularity of 5-star characters overall and by region
-+Average pity count and pull distributions
-+Estimated banner revenue from pulls
-+Player segmentation (free-to-play vs. whales)
-+Retention analysis based on first 5-star pull
++ Popularity of 5-star characters overall and by region
++ Average pity count and pull distributions
++ Estimated banner revenue from pulls
++ Player segmentation (free-to-play vs. whales)
++ Retention analysis based on first 5-star pull
 
 ##Project Status
-+Work in progress
+Work in progress
